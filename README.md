@@ -14,3 +14,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-720&show_icons=true&locale=en&layout=compact" alt="rafael-720" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-720&show_icons=true&locale=en" alt="rafael-720" /></p>
+
+
+
+
+![snake gif](https://github.com/Rafael-720/Rafael-720/blob/output/github-contribution-grid-snake.gif)
