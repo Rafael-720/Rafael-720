@@ -55,11 +55,7 @@
     <img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" width="120" height="40"/>
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- MLflow -->
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="120" height="40"/>
-  </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <!-- Kubeflow -->
   <a href="https://www.kubeflow.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/kubeflow/images/64a240da-6dce-4dea-a457-99ee3035ebe8.svg" alt="kubeflow" width="60" height="60"/>
